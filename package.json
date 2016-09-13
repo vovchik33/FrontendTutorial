@@ -1,0 +1,19 @@
+{
+  "name": "frontendtutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vovchik33/FrontendTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vovchik33/FrontendTutorial/issues"
+  },
+  "homepage": "https://github.com/vovchik33/FrontendTutorial#readme"
+}
