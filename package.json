@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/vovchik33/FrontendTutorial/issues"
   },
-  "homepage": "https://github.com/vovchik33/FrontendTutorial#readme"
+  "homepage": "https://github.com/vovchik33/FrontendTutorial#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1"
+  }
 }
